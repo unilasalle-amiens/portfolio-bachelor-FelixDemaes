@@ -15,7 +15,7 @@ Elève bachelor en numérique à UniLasalle Amiens
 
 Disponible 3 mois à partir de Maintenant
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[felix.demaesschaelck-mejor@etu.unilasalle.fr](mailto:felix.demaesschaelck-mejor@etu.unilasalle.fr)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
