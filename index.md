@@ -9,11 +9,11 @@ hero_image_ratio: is-1by1
 robots: noindex 
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Félix Demaesschaelck--Mejor
+Elève bachelor en numérique à UniLasalle Amiens
 
 
-Disponible XX mois à partir de Date
+Disponible 3 mois à partir de Maintenant
 
 [Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
 
