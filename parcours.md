@@ -9,60 +9,57 @@ robots: noindex
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2025 – 2027`
+**UniLasalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
+Elève Bachelor en numérique
+* Cours : Lean Manufacturing / Base de Donnée / Cybersécurité / Business intelligence
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
+`2023 – 2025`
+**Bachelor en aéronautique** - Elisa Aerospace Saint-Quentin
+* Cours : Electronique / Moteur Electrique / Mécanique / Phyique / Mathématique
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2023`
+Bac Technologique option ITEC (innovation technologique et éco-conception), mention assez bien, Lille
 
-## Expériences
+## Expériences professionnelles
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`Juin 2023` **QNP, Nettoyage, Lille**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+* Mise à jour du site internet (Photos, informations du véhicule, prix, ...)
+* Tests des différents véhicules
+
+`Décembre 2019` **Renault, Aide Management, Lomme**
+
+* Organisation des tâches de l’équipe
+* Préparation du matériel
+* Intervention dans divers lieux
+
+`2017-2020` **Centre d'incendie et de secours, Jeune sapeur pompier, Seclin**
+
+* Durant ces 4 années, j’ai appris comment réagir face à un incendie, face à un malaise, à une brûlure et d’autres situations et comment utiliser le matériel dans de bonnes conditions. 
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
-
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-
-`20XX` **Association, description de l’asso., taille**
-
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
 
 ## Compétences
 
+* Autonome
+* Pack Office
+* Aéronautique
+* GMAO (Gestion de maintenance assister par ordinateur)
+
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 Anglais : niveau B1
+* LV2 Espagnol : niveau B1
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* Visual Studio Code
+* SolidWorks
+* Filmora (Logiciel de montage vidéo)
 
-Autres
-* Autres diplômes ou permis spéciaux
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
+* Natation (10 ans)
+* Chorale (5 ans)
 
-Loisirs 1
-* Description 
-* Description 
