@@ -3,7 +3,7 @@ layout: promo-page
 title: Qui suis-je?
 description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
-hero_image: 
+hero_image: assets/imgs/felix.jpg
 hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 robots: noindex 
@@ -17,7 +17,7 @@ Disponible 3 mois à partir de Maintenant
 
 [felix.demaesschaelck-mejor@etu.unilasalle.fr](mailto:felix.demaesschaelck-mejor@etu.unilasalle.fr)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[LinkedIn](https://www.linkedin.com/in/f%C3%A9lix-demaesschaelck-5425b5291/)
 
 Permis B, voiture
 
