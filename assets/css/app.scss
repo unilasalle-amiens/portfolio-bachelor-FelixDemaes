@@ -20,6 +20,18 @@ $link: #ef2e31;
     font-size : 1em;
 }
 
+.hero-banner .card {
+    background-color: #ef2e31;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.hero-banner .card-content,
+.hero-banner .card-content p,
+.hero-banner .card-content a,
+.hero-banner .card-content li {
+    color: #fff;
+}
+
 .hero_image {
   width: 100%;
   height: auto;
