@@ -6,13 +6,14 @@
 }
 
 $family-primary: "Indivisa Text Sans-Regular",sans-serif;
-$primary: #ef2e31;
+$primary: #556B2F;
 $link: #ef2e31;
 // Import Main CSS file from theme
 @import "main";
 
 .navbar-item img {
     max-height: 2.75rem;
+    color : #ef2e31;
 }
 
 .menu-label {
