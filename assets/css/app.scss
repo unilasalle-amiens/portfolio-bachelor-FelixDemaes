@@ -1,11 +1,11 @@
----
----
-@import url("https://fonts.googleapis.com/css?family=Montserrat");@font-face {
+--- --- @import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+@font-face {
     font-family: "Indivisa Text Sans-Regular";
     src: url("../fonts/Indivisa Text Sans-Regular.ttf")
 }
 
-$family-primary: "Indivisa Text Sans-Regular",sans-serif;
+$family-primary: "Indivisa Text Sans-Regular", sans-serif;
 $primary: #556B2F;
 $link: #ef2e31;
 // Import Main CSS file from theme
@@ -13,11 +13,11 @@ $link: #ef2e31;
 
 .navbar-item img {
     max-height: 2.75rem;
-    color : #ef2e31;
+    color: #ef2e31;
 }
 
 .menu-label {
-    font-size : 1em;
+    font-size: 1em;
 }
 
 .hero-banner .card {
@@ -33,10 +33,10 @@ $link: #ef2e31;
 }
 
 .hero_image {
-  width: 100%;
-  height: auto;
-  max-width: 400px;
-  max-height: 400px;
-  object-fit: cover;
-  border-radius: 50%;
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 50%;
 }
