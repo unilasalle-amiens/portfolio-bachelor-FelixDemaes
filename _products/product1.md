@@ -3,7 +3,8 @@ title: Projet 1 (site web)
 subtitle: Projet site web
 description: Description du projet 1
 layout: product
-image: assets/imgs/site_web1.png
+image: /assets/imgs/site_web1.png
+image2: /assets/imgs/site_web2.png
 robots: noindex 
 ---
 
