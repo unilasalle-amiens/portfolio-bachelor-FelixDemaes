@@ -1,7 +1,4 @@
---- 
---- 
-
-@import url("https://fonts.googleapis.com/css?family=Montserrat");
+--- --- @import url("https://fonts.googleapis.com/css?family=Montserrat");
 
 @font-face {
     font-family: "Indivisa Text Sans-Regular";
@@ -37,11 +34,40 @@ $link: #ef2e31;
 
 .hero_image {
     width: 100%;
-    height: auto;
+    height: 100%;
     max-width: 400px;
     max-height: 400px;
     object-fit: cover;
     border-radius: 50%;
+    display: block;
+}
+
+.hero-image-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.promo-text-block {
+    background-color: #556B2F;
+    color: #fff;
+    padding: 2rem;
+    border-radius: 12px;
+}
+
+.promo-text-block .title,
+.promo-text-block .subtitle,
+.promo-text-block .content,
+.promo-text-block .card-content,
+.promo-text-block .card-footer-item a {
+    color: #fff;
+}
+
+.promo-text-block .card {
+    background-color: transparent;
+    box-shadow: none;
+    border: 0;
 }
 
 .product-image {
