@@ -1,12 +1,10 @@
 ---
-title: Projet 1
-subtitle: Projet informatique
+title: Projet 1 (site web)
+subtitle: Projet site web
 description: Description du projet 1
 layout: product
-image: https://via.placeholder.com/640x480
+image: assets/imgs/site_web1.png
 robots: noindex 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis. 
-
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
+J'ai réalisé un site web personnel ou j'explore comment utiliser lr HTML et le CSS pour mettre en valeur le site et mettant un fond spécial et de la musique de fond. Ce site n'est pas très beau par la suite je me suis améliorer pour faire de meilleurs site internet par exemple un site internet ou j'explique mon parcours scolaire et professionnel.
